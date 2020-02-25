@@ -15,13 +15,11 @@ permalink: /
 
 **Loading Zsh shell...
 
-
-                                               .....................
-                              
-                              
-                                            /    akash@akupedia:~#   \
+   .....................
+                                  
+ /    akash@akupedia:~#   \
                        
-                                           /   L3t Th3 P@wn@ge b3GiN   \       
-                              
-                                         ...................................              
+/   L3t Th3 P@wn@ge b3GiN   \       
+                             
+...................................              
 
