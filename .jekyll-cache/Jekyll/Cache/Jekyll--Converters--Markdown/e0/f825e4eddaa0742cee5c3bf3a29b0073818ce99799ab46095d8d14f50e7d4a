@@ -1,0 +1,43 @@
+I"C<p>#WHAT IS ETHICAL HACKING?
+With the growth of the information security field in recent years has come dramatic growth in the field of ethical hacking, also known as white hat (good guy) hacking. Ethical hacking is the practice of attempting to infiltrate and exploit a system in order to find out its weaknesses and better secure it. I segment the field of ethical hacking into two primary components: penetration testing for a legitimate information security firm and working for your nation’s military or intelligence agencies. Both are rapidly growing areas, and demand is strong.</p>
+
+<p>–</p>
+
+<p>##Penetration Testing
+As organizations become increasingly security conscious and the cost of security breaches rises exponentially, many large organizations are beginning to contract out security services. One of these key security services is penetration testing. A penetration test is essentially a legal, commissioned hack to demonstrate the vulnerability of a firm’s network and systems.
+Generally, organizations conduct a vulnerability assessment first to find potential vulnerabilities in their network, operating systems, and services. I emphasize potential, as this vulnerability scan includes a significant number of false positives (things identified as vulnerabilities that really are not). It is the role of the penetration tester to attempt to hack, or penetrate, these vulnerabilities. Only then can the organization know whether the vulnerability is real and decide to invest time and money to close the vulnerability.</p>
+
+<p>–</p>
+
+<p>#Military and Espionage
+Nearly every nation on earth now engages in cyber espionage and cyber warfare. One only needs to scan the headlines to see that cyber activities are the chosen method for spying on and attacking military and industrial systems.
+Hacking plays a crucial part in these military and intelligence­gathering activities, and that will only be more true as time goes by. Imagine a war of the future where hackers can gain access to their adversary’s war plans and knock out their electric grid, oil refineries, and water systems. These activities are taking place every day now. The hacker thus becomes a key component of their nation’s defense.</p>
+
+<p>–</p>
+
+<p>#WHY HACKERS USE LINUX
+So why do hackers use Linux over other operating systems? Mostly because Linux offers a far higher level of control via a few different methods.
+Linux Is Open Source
+Unlike Windows, Linux is open source, meaning that the source code of the operating system is available to you. As such, you can change and manipulate it as you please. If you are trying to make a system operate in ways it was not intended to, being able to manipulate the source code is essential.</p>
+
+<p>–</p>
+
+<p>#Linux Is Transparent
+To hack effectively, you must know and understand your operating system and, to a large extent, the operating system you are attacking. Linux is totally transparent, meaning we can see and manipulate all its working parts.
+Not so with Windows. Microsoft tries hard to make it as difficult as possible to know the inner workings of its operating systems, so you never really know what’s going on “under the hood,” whereas in Linux, you have a spotlight shining directly on each and every component of the operating system. This makes working with Linux more effective.</p>
+
+<p>–</p>
+
+<p>#Linux Offers Granular Control
+Linux is granular. That means that you have an almost infinite amount of control over the system. In Windows, you can control only what Microsoft allows you to control. In Linux, everything can be controlled by the terminal, at the most miniscule level or the most macro level. In addition, Linux makes scripting in any of the scripting languages</p>
+
+<p>simple and effective.
+Most Hacking Tools Are Written for Linux
+Well over 90 percent of all hacking tools are written for Linux. There are exceptions, of course, such as Cain and Abel and Wikto, but those exceptions prove the rule. Even when hacking tools such as Metasploit or nmap are ported for Windows, not all the capabilities transfer from Linux.
+The Future Belongs to Linux/Unix
+This might seem like a radical statement, but I firmly believe that the future of information technology belongs to Linux and Unix systems. Microsoft had its day in the 1980s and 1990s, but its growth is slowing and stagnating.
+Since the internet began, Linux/Unix has been the operating system of choice for web servers due to its stability, reliability, and robustness. Even today, Linux/Unix is used in two­thirds of web servers and dominates the market. Embedded systems in routers, switches, and other devices almost always use a Linux kernel, and the world of virtualization is dominated by Linux, with both VMware and Citrix built on the Linux kernel.
+Over 80 percent of mobile devices run Unix or Linux (iOS is Unix, and Android is Linux), so if you believe that the future of computing lies in mobile devices such as tablets and phones (it would be hard to argue otherwise), then the future is Unix/Linux. Microsoft Windows has just 7 percent of the mobile devices market. Is that the wagon you want to be hitched to?</p>
+
+<hr />
+:ET

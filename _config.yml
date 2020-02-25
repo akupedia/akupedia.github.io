@@ -1,6 +1,6 @@
 ## Settings
-title: Linux kernel info
-owner: "Akupedia"
+title: Linux Security for Pen Testers
+owner: "Akash Angle"
 url: "https://akupedia.github.io/"
 baseurl: ""
 permalink: /:title/
@@ -14,7 +14,7 @@ email: "akash@anglehit.com"
 github: ""
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by Akash Angle"
+statement: "Designed by Akash Angle using Jekyll with love in Navi Mumbai, India."
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
