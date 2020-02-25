@@ -13,6 +13,15 @@ permalink: /
 
 # Project Akupedia - MATRIX Movie Inspired - For Linux Security Pen Testers
 
+**Loading Zsh shell...
 
 
+                                               .....................
+                              
+                              
+                                            /    akash@akupedia:~#   \
+                       
+                                           /   L3t Th3 P@wn@ge b3GiN   \       
+                              
+                                         ...................................              
 
