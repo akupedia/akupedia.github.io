@@ -1,10 +1,10 @@
-Akash Angle burts the myth of how a classical Mobile phones aka smarphones here of any kind which could be or can be set as a target and blasted in order to destroy it as per Command and Control Unit set by the hacker.
+Akash Angle burts the myth of how a classical Mobile phones aka smartphones here of any kind which could be or can be set as a target and blasted in order to destroy it as per Command and Control Unit set by the hacker.
 
 Mobile phones may be treated like playthings these days. However, these flashy gadgets can prove dangerous if not handled with care:-
  
 How and why do mobile phone blasts happen?
  
- The most common reasons for a cell phone to explode are using it while the phone is being charged and 'call bombing'. Charging puts pressure on the motherboard of the phone, using it during charging increases this pressure manifold. This causes the cheap electronic components in some mobiles to explode. Call bombing refers to calls or missed calls received from international numbers. If one receives or calls these numbers back and the call exceeds a certain amount of time, the phone will blast. There is also a malware, or bug, found in some Android-based smartphones, that can also cause explosion by exerting extra pressure on the motherboard during charging.
+ The most common reasons for a cell phone to explode are using it while the phone is being charged and "call bombing". Charging puts pressure on the motherboard of the phone, using it during charging increases this pressure manifold. This causes the cheap electronic components in some mobiles to explode. Call bombing refers to calls or missed calls received from international numbers. If one receives or calls these numbers back and the call exceeds a certain amount of time, the phone will blast. There is also a malware, or bug, found in some Android-based smartphones, that can also cause explosion by exerting extra pressure on the motherboard during charging.
  
 This is as explained below for Android.
 When it comes to hacking Android phones, there are lots of ways for doing so. There are apps, web portals, scripts, and whatnot. We have already seen how to hack android device with spynote.
@@ -138,7 +138,6 @@ How to deal with a wet phone?
  
  Never use a hair dryer to try to dry the phone quicker. Drying it with a heated hair dryer can cause important parts to melt, while forcing water further into the phone. Drying it will a cold hair dryer will just force water deeper into the phone.
  
- 
-Why you shouldn't hold your mobile in your mouth?
- 
- Using mobile phones too close to your mouth regularly or holding cell phone in your mouth frequently could lead to malignant salivary gland cancer and tumors in mouth. Regular cell phone users who speak
+ So these are the do's and dont's so be calm and use your toys with precautions and care and do not fall into phishing and other malacious attacks. Take care, have fun.
+
+Cheers !
