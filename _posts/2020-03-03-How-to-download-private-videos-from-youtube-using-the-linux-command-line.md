@@ -1,3 +1,10 @@
+---
+title: How to download private videos from YouTube with youtube-dl
+layout: post
+category: Youtube flaws
+date: 2020-2-2
+---
+
 How to download private videos from YouTube with youtube-dl
 
 youtube-dl is a wonderful tool for downloading videos so they can be watched offline. Most of the time I only want to store a publicly accessible video. Sometimes I want to access a video that is only accessible when I am logged into my YouTube account. To do this was more challenging than I thought it would be, partly because youtube-dl is working through some issues. The specific issues I ran into dealt with two factor authentication and reading cookie formats.
