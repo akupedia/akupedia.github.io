@@ -1,5 +1,5 @@
 ---
-title: rockyou2021.txt - A Compilation of 8.4 billion passwords being leaked on the dark web !
+title: rockyou2021.txt-A-Compilation-of-8.4-billion-passwords-being-leaked-on-the-dark-web-!
 layout: post
 category: Linux Security, Hacked 8.4 billion passwords.
 date: 13th Sept. 2021 - 12:27 pm IST
